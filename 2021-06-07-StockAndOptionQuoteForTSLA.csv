@@ -1,4 +1,4 @@
-﻿Delta,Bid,Ask,Strike,Bid,Ask,Delta,Expire Date
+﻿Delta Call,Bid Call,Ask Call,Strike,Bid Put,Ask Put,Delta Put,Expire Date
 0,47.7,52.2,50 / 100,-0.01,0.01,0,11 JUN 21  (4)  100 (Weeklys)
 0,47.8,52.3,100 / 150,-0.01,0.01,0,11 JUN 21  (4)  100 (Weeklys)
 0,48.95,51.05,150 / 200,-0.01,0.01,0,11 JUN 21  (4)  100 (Weeklys)
